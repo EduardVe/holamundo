@@ -1,2 +1,3 @@
 # holamundo
-programa
+
+cout<<" hola mundo";
